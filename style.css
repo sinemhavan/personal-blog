@@ -8,9 +8,10 @@ body {
 }
 
 nav {
-    background: #742494;
+    background: #6A1B9A;
     color: #fff;
-    padding: 1rem 0;
+    padding-top: 25px;           
+    padding-bottom: 25px;
     text-align: center;
 }
 
@@ -45,9 +46,12 @@ img {
 }
 
 footer {
-    text-align: center;
+     text-align: center;
     padding: 20px;
-    background: #742494;
-    color: #fff;
-    margin-top: 20px;
+    background: #6A1B9A; 
+    color: white;
+    margin-top: 30px;
+    font-size: 14px;  
+
+
 }
